@@ -458,7 +458,7 @@ if page == "Home":
             {
                 "name": "Pranav Mundhra",
                 "title": "Frontend Developer",
-                "image_path": "image\pranav.jpeg",
+                "image_path": "image/pranav.jpeg",
                 "description": "Specializes in React and Streamlit interfaces with a focus on user experience and interaction design.",
                 "github": "https://github.com/PranavMundhra",
                 "email": "pranavmundhra2005@gmail.com"
@@ -466,7 +466,7 @@ if page == "Home":
             {
                 "name": "Saad Nathani",
                 "title": "Backend Developer",
-                "image_path": "image\saad.jpeg", 
+                "image_path": "image/saad.jpeg", 
                 "description": "Expert in optimization algorithms and mathematical modeling with Python and operations research libraries.",
                 "github": "https://github.com/Strangehumaan",
                 "email": "saadnathani2005@gmail.com"
@@ -497,7 +497,7 @@ if page == "Home":
             {
                 "name": "Abhishek Patil",
                 "title": "Documentation Head",
-                "image_path": "image\Abhishek.png",
+                "image_path": "image/Abhishek.png",
                 "description": "Creates comprehensive guides and documentation for all OTTools features.",
                 "github": "https://github.com/AbhishekkPatilll",
                 "email": "abhishekpatil0729@gmail.com"
@@ -505,7 +505,7 @@ if page == "Home":
             {
                 "name": "Devesh Poojary",
                 "title": "Presentation Head", 
-                "image_path": "image\devesh.jpeg",
+                "image_path": "image/devesh.jpeg",
                 "description": "Specializes in creating visual presentations and demos of optimization solutions.",
                 "github": "https://github.com/Devesh1105",
                 "email": "poojarydevesh11@gmail.com"
@@ -513,7 +513,7 @@ if page == "Home":
             {
                 "name": "Navya Singh",
                 "title": "Graphics Designer",
-                "image_path": "image//navya.jpeg",
+                "image_path": "image/navya.jpeg",
                 "description": "Creates user interface designs, graphics, and visual elements for the OTTools suite.",
                 "github": "https://github.com/Navya895",
                 "email": "rnavya2005@gmail.com"
@@ -521,7 +521,7 @@ if page == "Home":
             {
                 "name": "Reshma Patil",
                 "title": "Visualization Specialist",
-                "image_path": "image//reshma.jpeg",
+                "image_path": "image/reshma.jpeg",
                 "description": "Develops data visualization components and creates interactive charts.",
                 "github": "https://github.com/ReshmaPatil-02",
                 "email": "reshmakp1616@gmail.com"
