@@ -492,7 +492,7 @@ if page == "Home":
                 """, unsafe_allow_html=True)
     
     else:  # Graphics Team
-        st.markdown("<h3>Graphics Team</h3>", unsafe_allow_html=True)
+        st.markdown("<h3>Graphics & Planning Team</h3>", unsafe_allow_html=True)
         graphics_team = [
             {
                 "name": "Abhishek Patil",
