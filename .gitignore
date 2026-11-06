@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit (keep config.toml, never commit secrets)
+.streamlit/secrets.toml
+
+# Local backup of the pre-redesign site (the old version is in git history)
+_old/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

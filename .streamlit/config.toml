@@ -1,0 +1,31 @@
+# OTTools site theme ("Blueprint"). Both modes are defined here so Streamlit's own
+# widgets (tables, inputs, buttons) follow the light/dark toggle in the header.
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap, sans-serif"
+headingFont = "Space Grotesk:https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap, sans-serif"
+codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap, monospace"
+baseRadius = "medium"
+
+[theme.dark]
+primaryColor = "#4FB3A9"
+backgroundColor = "#0E1417"
+secondaryBackgroundColor = "#152024"
+textColor = "#E8EEEC"
+borderColor = "#2A3B40"
+linkColor = "#5FD3B4"
+codeBackgroundColor = "#152024"
+dataframeHeaderBackgroundColor = "#1A282C"
+
+[theme.light]
+primaryColor = "#2F5D5A"
+backgroundColor = "#F7F9F8"
+secondaryBackgroundColor = "#E9F0EE"
+textColor = "#10201E"
+borderColor = "#CBD8D5"
+linkColor = "#2F5D5A"
+codeBackgroundColor = "#EEF3F2"
+dataframeHeaderBackgroundColor = "#E3EBE9"
